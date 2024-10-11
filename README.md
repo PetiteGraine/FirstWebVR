@@ -1,2 +1,2 @@
 # FirstWebVR
-My FirstWebVR project
+My FirstWebVR project, currently working on it.
